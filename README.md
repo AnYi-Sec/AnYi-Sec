@@ -9,4 +9,4 @@
 
 公众号：[甲方叫我安服仔](https://mp.weixin.qq.com/s/rlEetzCbNg2Y3sPidvED1g)
 
-座右铭：吾辈应当勤勉，持书仗剑耀中华！
+座右铭：我按我的想法写，你用你的逻辑读！
