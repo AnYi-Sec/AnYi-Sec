@@ -1,6 +1,6 @@
 ### Hi there 👋,I'm AnYi
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=AnYi-Sec&show_icons=true&theme=radical" width="380">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=AnYi-Sec&show_icons=true&theme=radical" width="380">
 
 - 🔭 Yi Ge An Fu Zai
 - 🌱 I’m currently learning Java Go Python
